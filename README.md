@@ -2,9 +2,12 @@
 
 #### Technical Skills: SQL, Basic Python, Tableau
 
-## Education
-**MSc Human and Applied Physiology | King's College London | 2021**
-**B.S. Physiological Science | University of California, Los Angeles | 2019**
+<h1> Education </h1>
+<h2> MSc Human and Applied Physiology </h2>
+<h3> King's College London | 2021 </h3>
+
+<h2> B.S. Physiological Science </h2>
+<h3> University of California, Los Angeles | 2019 </h3>
 
 ## Professional Experience
 **Medical Laboratory Assistant at Health Services Laboratories**  
