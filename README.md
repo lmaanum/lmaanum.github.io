@@ -24,8 +24,9 @@ Life Science Professional & Aspiring Data Analyst
 - Emergency Room Dashboard Tablaeu Project | Jan 2024
 
 ## Certificates
-- Code First Girls: Intro to Python | Jan 2024
 - HarvardX CS50: Introduction to Databases with SQL | Feb 2024
+- Code First Girls: Intro to Python | Jan 2024
+
 
 
 
