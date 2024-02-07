@@ -14,10 +14,10 @@
 #### Aliens in America (SQL) | Feb 2024
 -
 
-#### Emergency Room Dashboard (Tableau) | Jan 2024
+#### [Emergency Room Dashboard (Tableau) | Jan 2024] (https://leannmaanum.wixsite.com/data-endeavours/projects-6-1)
 - 
 
-#### London Bike Share (Tableau) | Dec 2023
+#### [London Bike Share (Tableau) | Dec 2023] (https://leannmaanum.wixsite.com/data-endeavours/projects-6)
 - 
 
 ## Professional Experience
