@@ -2,9 +2,9 @@
 
 #### Technical Skills: SQL, Basic Python, Tableau
 
-<h1> Education </h1>
-<b> MSc Human and Applied Physiology | King's College London | 2021 </b>
-<b> B.S. Physiological Science | University of California, Los Angeles | 2019 </b>
+## Education ##
+- MSc Human and Applied Physiology | King's College London | 2021
+- B.S. Physiological Science | University of California, Los Angeles | 2019 
 
 ## Professional Experience
 **Medical Laboratory Assistant at Health Services Laboratories**  
@@ -26,11 +26,7 @@
 **Code First Girls: Intro to Python | Jan 2024**
 **HarvardX CS50: Introduction to Databases with SQL | Feb 2024**
 
-<h2> Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/leann-maanum/
 
 
 
