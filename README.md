@@ -5,8 +5,8 @@
 - B.S. Physiological Science | University of California, Los Angeles | 2019
 
 ## Professional Experience
-** Medical Laboratory Assistant at Health Services Laboratories | 
-*** Dec 2021 - Nov 2023
+**Medical Laboratory Assistant at Health Services Laboratories  
+***Dec 2021 - Nov 2023
 - 
 -
 -
