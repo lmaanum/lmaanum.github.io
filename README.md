@@ -2,10 +2,10 @@
 
 ## Education
 - MSc Human and Applied Physiology
-King's College London | Pass with Distinction
+  - King's College London | Pass with Distinction
 
 - B.S. Physiological Science
-University of California, Los Angeles
+  - University of California, Los Angeles
 
 ## Professional Experience
 Medical Laboratory Assistant at Health Services Laboratories
