@@ -3,11 +3,9 @@
 #### Technical Skills: SQL, Basic Python, Tableau
 
 ## Education ##
-**MSc Human and Applied Physiology** 
-King's College London | 2021
+**MSc Human and Applied Physiology** | King's College London | 2021
 
-**B.S. Physiological Science** 
-University of California, Los Angeles | 2019
+**B.S. Physiological Science** | University of California, Los Angeles | 2019
 
 ## Projects
 #### Guiness Six Nations (SQL, Python) | Feb 2024
