@@ -1,10 +1,10 @@
 # Aspiring Data Analyst
 
 ## Education
-MSc Human and Applied Physiology
+- MSc Human and Applied Physiology
 King's College London | Pass with Distinction
 
-B.S. Physiological Science
+- B.S. Physiological Science
 University of California, Los Angeles
 
 ## Professional Experience
