@@ -3,14 +3,21 @@
 #### Technical Skills: SQL, Basic Python, Tableau
 
 ## Education ##
-- MSc Human and Applied Physiology | King's College London | 2021
-- B.S. Physiological Science | University of California, Los Angeles | 2019
+### MSc Human and Applied Physiology | King's College London | 2021
+### B.S. Physiological Science | University of California, Los Angeles | 2019
 
 ## Projects
-- Guiness Six Nations (SQL, Python) | Feb 2024
-- Aliens in America (SQL) | Feb 2024
-- Emergency Room Dashboard (Tableau) | Jan 2024
-- London Bike Share (Tableau) | Dec 2023
+### Guiness Six Nations (SQL, Python) | Feb 2024
+-
+
+### Aliens in America (SQL) | Feb 2024
+-
+
+### Emergency Room Dashboard (Tableau) | Jan 2024
+- 
+
+### London Bike Share (Tableau) | Dec 2023
+- 
 
 ## Professional Experience
 **Medical Laboratory Assistant at Health Services Laboratories (Dec 2021 - Nov 2023)**  
