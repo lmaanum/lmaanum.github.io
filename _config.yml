@@ -2,5 +2,5 @@ title: LeAnn Maanum, MSc
 #logo: 
 description: Aspiring data analyst with 2+ years of professional life science experience
 #show_downloads: true
-theme: jekyll-theme-midnight
+remote_theme: pages-themes/minimal@v0.2.0
 
